@@ -1,6 +1,6 @@
 <?php
-$mod_strings['LBL_MANAGE_ZUCKERREPORTS2CONFIG'] = 'ZuckerReports Ý’è';
-$mod_strings['LBL_ZUCKERREPORTS2CONFIG'] = 'ƒpƒ‰ƒ[ƒ^Ý’è';
-$mod_strings['LBL_ZUCKERREPORTS2CONFIG_DESC'] = 'ZuckerReports ‚ðŠÇ—‚Å‚«‚Ü‚·B';
+$mod_strings['LBL_MANAGE_ZUCKERREPORTS2CONFIG'] = 'ZuckerReports è¨­å®š';
+$mod_strings['LBL_ZUCKERREPORTS2CONFIG'] = 'ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿è¨­å®š';
+$mod_strings['LBL_ZUCKERREPORTS2CONFIG_DESC'] = 'ZuckerReports ã‚’ç®¡ç†ã§ãã¾ã™ã€‚';
 $mod_strings['LBL_ZUCKERREPORTS2CONFIG_TITLE'] = 'ZuckerReports';
 ?>

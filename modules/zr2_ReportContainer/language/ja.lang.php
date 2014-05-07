@@ -3,18 +3,18 @@
 $mod_strings = array_merge (return_module_language("en_us", "zr2_Report"),
 	array(
 	//module
-	'LBL_MODULE_NAME' => 'ƒŒƒ|[ƒgƒA[ƒJƒCƒu',
-	'LBL_MODULE_TITLE' => 'ƒŒƒ|[ƒgƒA[ƒJƒCƒu ƒJƒeƒSƒŠ',
+	'LBL_MODULE_NAME' => 'ãƒ¬ãƒãƒ¼ãƒˆã‚¢ãƒ¼ã‚«ã‚¤ãƒ–',
+	'LBL_MODULE_TITLE' => 'ãƒ¬ãƒãƒ¼ãƒˆã‚¢ãƒ¼ã‚«ã‚¤ãƒ– ã‚«ãƒ†ã‚´ãƒª',
 
-	'LBL_CONTAINER_PARENT_NAME' => 'eƒJƒeƒSƒŠ',
+	'LBL_CONTAINER_PARENT_NAME' => 'è¦ªã‚«ãƒ†ã‚´ãƒª',
 	
-	'LBL_CONTAINER' => 'ƒJƒeƒSƒŠ',
-	'LBL_SUBCONTAINERS' => 'ƒTƒuƒJƒeƒSƒŠ',
-	'LBL_CONTAINER_NEW' => 'V‚µ‚¢ƒJƒeƒSƒŠ',
-	'LBL_CONTAINER_TOP' => 'ƒ‹[ƒgƒJƒeƒSƒŠ',
-	'LBL_CONTAINER_SELECT' => '‘I‘ð',
-	'LBL_CONTAINER_NAME' => '–¼‘O',
-	'LBL_CONTAINER_DESCRIPTION' => 'à–¾',
+	'LBL_CONTAINER' => 'ã‚«ãƒ†ã‚´ãƒª',
+	'LBL_SUBCONTAINERS' => 'ã‚µãƒ–ã‚«ãƒ†ã‚´ãƒª',
+	'LBL_CONTAINER_NEW' => 'æ–°ã—ã„ã‚«ãƒ†ã‚´ãƒª',
+	'LBL_CONTAINER_TOP' => 'ãƒ«ãƒ¼ãƒˆã‚«ãƒ†ã‚´ãƒª',
+	'LBL_CONTAINER_SELECT' => 'é¸æŠž',
+	'LBL_CONTAINER_NAME' => 'åå‰',
+	'LBL_CONTAINER_DESCRIPTION' => 'èª¬æ˜Ž',
 	'LBL_CONTAINER_UP' => 'Up',
 	)
 );

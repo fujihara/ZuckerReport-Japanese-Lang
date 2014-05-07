@@ -2,14 +2,14 @@
 
 $mod_strings = array_merge(return_module_language("en_us", "zr2_Report"),
 	array(
-	  'LBL_MODULE_NAME' => 'ƒNƒGƒŠƒeƒ“ƒvƒŒ[ƒg',
-	  'LBL_MODULE_TITLE' => 'ƒNƒGƒŠƒeƒ“ƒvƒŒ[ƒg',
+	  'LBL_MODULE_NAME' => 'ã‚¯ã‚¨ãƒªãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ',
+	  'LBL_MODULE_TITLE' => 'ã‚¯ã‚¨ãƒªãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ',
 	  'LBL_QUERY_SQL' => 'SQL',
-	  'LBL_QUERY_SQL_HELP' => 'ƒŒƒ|[ƒg‚ğ’Šo‚·‚éƒNƒGƒŠ‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B To include parameter selection, enter a "$" followed by the parameter name, and the value will be inserted at this position on report execution.<br/><br/>The following placeholders are supported as well: <br/><b>$SUGAR_USER_ID</b> - contains the ID of the currently logged on user<br/><b>$SUGAR_USER_NAME</b> - contains the name of the currently logged on user<br/><b>$SUGAR_SESSION_ID</b> - contains the ID of the current session',
+	  'LBL_QUERY_SQL_HELP' => 'ãƒ¬ãƒãƒ¼ãƒˆã‚’æŠ½å‡ºã™ã‚‹ã‚¯ã‚¨ãƒªã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚ To include parameter selection, enter a "$" followed by the parameter name, and the value will be inserted at this position on report execution.<br/><br/>The following placeholders are supported as well: <br/><b>$SUGAR_USER_ID</b> - contains the ID of the currently logged on user<br/><b>$SUGAR_USER_NAME</b> - contains the name of the currently logged on user<br/><b>$SUGAR_SESSION_ID</b> - contains the ID of the current session',
 	  
-	'LBL_QUERY_ONDEMAND_COLUMN_DELIMITER' => 'ƒJƒ‰ƒ€ƒZƒpƒŒ[ƒ^',
-	'LBL_QUERY_ONDEMAND_ROW_DELIMITER' => 'sƒZƒpƒŒ[ƒ^',
-	'LBL_QUERY_ONDEMAND_INCLUDE_HEADER' => 'ƒwƒbƒ_s‚ğŠÜ‚Ş',
+	'LBL_QUERY_ONDEMAND_COLUMN_DELIMITER' => 'ã‚«ãƒ©ãƒ ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿',
+	'LBL_QUERY_ONDEMAND_ROW_DELIMITER' => 'è¡Œã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿',
+	'LBL_QUERY_ONDEMAND_INCLUDE_HEADER' => 'ãƒ˜ãƒƒãƒ€è¡Œã‚’å«ã‚€',
 	)
 );
 
@@ -17,21 +17,21 @@ $mod_list_strings = array_merge(return_mod_list_strings_language("en_us", "zr2_R
 	array (
 		  'QUERY_EXPORT_TYPES' =>
 		  array (
-			'CSV' => 'ƒJƒ“ƒ}‹æØ‚è(*.csv)',
+			'CSV' => 'ã‚«ãƒ³ãƒåŒºåˆ‡ã‚Š(*.csv)',
 			'HTML' => 'HTML (*.html)',
-			'SIMPLEHTML' => 'ƒVƒ“ƒvƒ‹HTML (*.html)',
-			'TABLE' => 'ƒCƒ“ƒ‰ƒCƒ“ƒe[ƒuƒ‹',
+			'SIMPLEHTML' => 'ã‚·ãƒ³ãƒ—ãƒ«HTML (*.html)',
+			'TABLE' => 'ã‚¤ãƒ³ãƒ©ã‚¤ãƒ³ãƒ†ãƒ¼ãƒ–ãƒ«',
 		  ),
 		  'COL_DELIMS' =>
 		  array (
-			',' => 'ƒJƒ“ƒ} (,)',
-			';' => 'ƒZƒ~ƒRƒƒ“ (;)',
-			'tab' => 'ƒ^ƒu (\t)',
-			'.' => 'ƒhƒbƒg (.)',
+			',' => 'ã‚«ãƒ³ãƒ (,)',
+			';' => 'ã‚»ãƒŸã‚³ãƒ­ãƒ³ (;)',
+			'tab' => 'ã‚¿ãƒ– (\t)',
+			'.' => 'ãƒ‰ãƒƒãƒˆ (.)',
 		  ),
 		  'ROW_DELIMS' =>
 		  array (
-			'newline' => '‰üs (\n)',
+			'newline' => 'æ”¹è¡Œ (\n)',
 		  ),
 	)
 );

@@ -2,21 +2,21 @@
 
 $mod_strings = array_merge(return_module_language("en_us", "zr2_Report"),
 	array(
-	'LBL_REPORT_TEMPLATE_NEW' => 'V‚µ‚¢JasperReportsƒeƒ“ƒvƒŒ[ƒg',
+	'LBL_REPORT_TEMPLATE_NEW' => 'æ–°ã—ã„JasperReportsãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ',
 	'LBL_REPORT' => 'JasperReports',
-	'LBL_REPORT_NAME' => 'ƒeƒ“ƒvƒŒ[ƒg–¼',
-	'LBL_REPORT_FILENAME' => 'ƒeƒ“ƒvƒŒ[ƒgƒtƒ@ƒCƒ‹ (*.jrxml)',
-	'LBL_REPORT_DESCRIPTION' => 'ŠT—v',
-	'LBL_REPORT_EXPORT_AS' => '‹–—e‚³‚ê‚Ä‚¢‚éƒf[ƒ^Œ^',
-	'LBL_REPORT_ERROR_MESSAGE' => 'ƒGƒ‰[ƒƒbƒZ[ƒW',
-	'LBL_SUBREPORTS' => 'ƒTƒuƒŒƒ|[ƒg',
-	'LBL_SUBREPORT' => 'ƒAƒbƒvƒ[ƒhƒTƒuƒŒƒ|[ƒg',
+	'LBL_REPORT_NAME' => 'ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆå',
+	'LBL_REPORT_FILENAME' => 'ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ« (*.jrxml)',
+	'LBL_REPORT_DESCRIPTION' => 'æ¦‚è¦',
+	'LBL_REPORT_EXPORT_AS' => 'è¨±å®¹ã•ã‚Œã¦ã„ã‚‹ãƒ‡ãƒ¼ã‚¿åž‹',
+	'LBL_REPORT_ERROR_MESSAGE' => 'ã‚¨ãƒ©ãƒ¼ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸',
+	'LBL_SUBREPORTS' => 'ã‚µãƒ–ãƒ¬ãƒãƒ¼ãƒˆ',
+	'LBL_SUBREPORT' => 'ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚µãƒ–ãƒ¬ãƒãƒ¼ãƒˆ',
 	'LBL_SUBREPORT_HELP' => 'Subreports are saved in own files. For JasperReports to be able to access those files, please upload them here. If you have uploaded a subreport file before, you don\'t have to upload it againg.',
-	'LBL_RESOURCES' => '‚»‚Ì‘¼ƒŠƒ\[ƒX',
-	'LBL_RESOURCE' => 'ƒAƒbƒvƒ[ƒhƒŠƒ\[ƒX',
+	'LBL_RESOURCES' => 'ãã®ä»–ãƒªã‚½ãƒ¼ã‚¹',
+	'LBL_RESOURCE' => 'ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ãƒªã‚½ãƒ¼ã‚¹',
 	'LBL_RESOURCE_HELP' => 'Report pictures and scriptlets are saved in own files. For JasperReports to be able to access those files, please upload them here. If you have uploaded a resource file before, you don\'t have to upload it againg.',
 
-	'ERR_TEMPLATE_INVALID_FILE' => 'ƒŒƒ|[ƒgƒfƒUƒCƒ“ƒtƒ@ƒCƒ‹(*.jrxml)‚Ì‚ÝƒTƒ|[ƒg‚³‚ê‚Ä‚¢‚Ü‚·B',
+	'ERR_TEMPLATE_INVALID_FILE' => 'ãƒ¬ãƒãƒ¼ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«(*.jrxml)ã®ã¿ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã™ã€‚',
 	)
 );
 
@@ -26,8 +26,8 @@ $mod_list_strings = array (
 			'PDF' => 'Adobe PDF (*.pdf)',
 			'XLS' => 'Excel (*.xls)',
 			'HTML' => 'HTML (*.html)',
-			'XML' => 'XML (ŠO•”ƒCƒ[ƒW, *.xml)',
-			'XML_EMBED' => 'XML (–„‚ßž‚Ü‚ê‚½ƒCƒ[ƒW, *.xml)',
+			'XML' => 'XML (å¤–éƒ¨ã‚¤ãƒ¡ãƒ¼ã‚¸, *.xml)',
+			'XML_EMBED' => 'XML (åŸ‹ã‚è¾¼ã¾ã‚ŒãŸã‚¤ãƒ¡ãƒ¼ã‚¸, *.xml)',
 		  ),
  	);
 

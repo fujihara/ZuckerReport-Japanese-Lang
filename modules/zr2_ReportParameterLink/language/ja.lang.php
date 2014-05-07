@@ -2,14 +2,14 @@
 
 $mod_strings = array_merge (return_module_language("en_us", "zr2_Report"),
 	array (
-	'LBL_MODULE_NAME' => 'ƒpƒ‰ƒ[ƒ^“‡',
-	'LBL_MODULE_TITLE' => 'ƒpƒ‰ƒ[ƒ^“‡',
+	'LBL_MODULE_NAME' => 'ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿çµ±åˆ',
+	'LBL_MODULE_TITLE' => 'ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿çµ±åˆ',
 
 	'LBL_NAME' => 'Parameter Name',
-	'LBL_PARAM_LINK_DEFAULTVALUE' => '‰Šú’l',
-	'LBL_PARAM_LINK_PARAM' => 'ƒpƒ‰ƒ[ƒ^ƒvƒƒ“ƒvƒg',
-	'LBL_PARAM_LINK_RANGE' => '‘I‘ð',
-	'LBL_PARAM_LINK_MODULENAME' => 'ƒ‚ƒWƒ…[ƒ‹‚ð“‡',
+	'LBL_PARAM_LINK_DEFAULTVALUE' => 'åˆæœŸå€¤',
+	'LBL_PARAM_LINK_PARAM' => 'ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆ',
+	'LBL_PARAM_LINK_RANGE' => 'é¸æŠž',
+	'LBL_PARAM_LINK_MODULENAME' => 'ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’çµ±åˆ',
 	)
 );	
 	
