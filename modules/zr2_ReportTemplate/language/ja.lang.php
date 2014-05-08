@@ -30,7 +30,4 @@ $mod_list_strings = array (
 			'XML_EMBED' => 'XML (埋め込まれたイメージ, *.xml)',
 		  ),
  	);
-
-
-
 ?>

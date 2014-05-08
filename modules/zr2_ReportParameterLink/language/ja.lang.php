@@ -12,5 +12,4 @@ $mod_strings = array_merge (return_module_language("en_us", "zr2_Report"),
 	'LBL_PARAM_LINK_MODULENAME' => 'モジュールを統合',
 	)
 );	
-	
 ?>

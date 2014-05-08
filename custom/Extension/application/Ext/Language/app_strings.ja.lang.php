@@ -1,26 +1,26 @@
 <?php
-$app_list_strings['moduleList']['zr2_ReportParameter'] = 'ƒŒƒ|[ƒgƒpƒ‰ƒ[ƒ^';
-$app_list_strings['moduleList']['zr2_ReportTemplate'] = 'JasperReports ƒeƒ“ƒvƒŒ[ƒg';
-$app_list_strings['moduleList']['zr2_QueryTemplate'] = 'Query ƒeƒ“ƒvƒŒ[ƒg';
-$app_list_strings['moduleList']['zr2_ReportParameterLink'] = 'ƒpƒ‰ƒ[ƒ^“‡';
+$app_list_strings['moduleList']['zr2_ReportParameter'] = 'ãƒ¬ãƒãƒ¼ãƒˆãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿';
+$app_list_strings['moduleList']['zr2_ReportTemplate'] = 'JasperReports ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ';
+$app_list_strings['moduleList']['zr2_QueryTemplate'] = 'Query ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ';
+$app_list_strings['moduleList']['zr2_ReportParameterLink'] = 'ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿çµ±åˆ';
 $app_list_strings['moduleList']['zr2_Report'] = 'ZuckerReports';
-$app_list_strings['moduleList']['zr2_ReportContainer'] = 'ƒŒƒ|[ƒgƒA[ƒJƒCƒu';
+$app_list_strings['moduleList']['zr2_ReportContainer'] = 'ãƒ¬ãƒãƒ¼ãƒˆã‚¢ãƒ¼ã‚«ã‚¤ãƒ–';
 
-$app_list_strings['PARAM_RANGE_TYPES']['SIMPLE'] = '’¼Ú“ü—Í';
-$app_list_strings['PARAM_RANGE_TYPES']['DATE'] = '“ú•t“ü—Í';
-$app_list_strings['PARAM_RANGE_TYPES']['DATE_NOW'] = 'Œ»Ý‚Ì“úŽž';
-$app_list_strings['PARAM_RANGE_TYPES']['DATE_ADD'] = '–¢—ˆƒ^ƒCƒ€ƒXƒ^ƒ“ƒv';
-$app_list_strings['PARAM_RANGE_TYPES']['DATE_SUB'] = '‰ß‹Žƒ^ƒCƒ€ƒXƒ^ƒ“ƒv';
-$app_list_strings['PARAM_RANGE_TYPES']['SQL'] = '’è‹`ƒ†[ƒUƒNƒGƒŠ';
-$app_list_strings['PARAM_RANGE_TYPES']['LIST'] = '’è‹`ƒ†[ƒUƒŠƒXƒg';
-$app_list_strings['PARAM_RANGE_TYPES']['DROPDOWN'] = 'ƒhƒƒbƒvƒ_ƒEƒ“ƒŠƒXƒg';
-$app_list_strings['PARAM_RANGE_TYPES']['CURRENT_USER'] = 'ƒJƒŒƒ“ƒgƒ†[ƒU';
-$app_list_strings['PARAM_RANGE_TYPES']['SCRIPT'] = 'PHPƒXƒNƒŠƒvƒg';
-$app_list_strings['PARAM_DATE_TYPES']['MINUTE'] = '•ª';
-$app_list_strings['PARAM_DATE_TYPES']['HOUR'] = 'Žž';
-$app_list_strings['PARAM_DATE_TYPES']['DAY'] = '“ú';
-$app_list_strings['PARAM_DATE_TYPES']['WEEK'] = 'T';
-$app_list_strings['PARAM_DATE_TYPES']['MONTH'] = 'ŒŽ';
-$app_list_strings['PARAM_DATE_TYPES']['YEAR'] = '”N';
+$app_list_strings['PARAM_RANGE_TYPES']['SIMPLE'] = 'ç›´æŽ¥å…¥åŠ›';
+$app_list_strings['PARAM_RANGE_TYPES']['DATE'] = 'æ—¥ä»˜å…¥åŠ›';
+$app_list_strings['PARAM_RANGE_TYPES']['DATE_NOW'] = 'ç¾åœ¨ã®æ—¥æ™‚';
+$app_list_strings['PARAM_RANGE_TYPES']['DATE_ADD'] = 'æœªæ¥ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—';
+$app_list_strings['PARAM_RANGE_TYPES']['DATE_SUB'] = 'éŽåŽ»ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—';
+$app_list_strings['PARAM_RANGE_TYPES']['SQL'] = 'å®šç¾©ãƒ¦ãƒ¼ã‚¶ã‚¯ã‚¨ãƒª';
+$app_list_strings['PARAM_RANGE_TYPES']['LIST'] = 'å®šç¾©ãƒ¦ãƒ¼ã‚¶ãƒªã‚¹ãƒˆ';
+$app_list_strings['PARAM_RANGE_TYPES']['DROPDOWN'] = 'ãƒ‰ãƒ­ãƒƒãƒ—ãƒ€ã‚¦ãƒ³ãƒªã‚¹ãƒˆ';
+$app_list_strings['PARAM_RANGE_TYPES']['CURRENT_USER'] = 'ã‚«ãƒ¬ãƒ³ãƒˆãƒ¦ãƒ¼ã‚¶';
+$app_list_strings['PARAM_RANGE_TYPES']['SCRIPT'] = 'PHPã‚¹ã‚¯ãƒªãƒ—ãƒˆ';
+$app_list_strings['PARAM_DATE_TYPES']['MINUTE'] = 'åˆ†';
+$app_list_strings['PARAM_DATE_TYPES']['HOUR'] = 'æ™‚';
+$app_list_strings['PARAM_DATE_TYPES']['DAY'] = 'æ—¥';
+$app_list_strings['PARAM_DATE_TYPES']['WEEK'] = 'é€±';
+$app_list_strings['PARAM_DATE_TYPES']['MONTH'] = 'æœˆ';
+$app_list_strings['PARAM_DATE_TYPES']['YEAR'] = 'å¹´';
 
 ?>

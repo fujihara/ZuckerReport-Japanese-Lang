@@ -40,9 +40,6 @@ $mod_strings = array (
 	'LBL_ONDEMAND_BOUND_ATTACH' => '結果添付',
 	'LBL_ONDEMAND_BOUND_RUN' => '実行',
 	
-	'LBL_ARCHIVE_LIST'=> 'レポートリスト',
-
-	
+	'LBL_ARCHIVE_LIST'=> 'レポートリスト',	
 );
-
 ?>
