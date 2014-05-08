@@ -14,7 +14,7 @@ $mod_strings = array_merge (return_module_language("en_us", "zr2_Report"),
 	'LBL_CONTAINER_TOP' => 'ルートカテゴリ',
 	'LBL_CONTAINER_SELECT' => '選択',
 	'LBL_CONTAINER_NAME' => '名前',
-	'LBL_CONTAINER_DESCRIPTION' => '説明',
+	'LBL_CONTAINER_DESCRIPTION' => '概要',
 	'LBL_CONTAINER_UP' => 'Up',
 	)
 );

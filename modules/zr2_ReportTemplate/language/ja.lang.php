@@ -1,6 +1,6 @@
 <?php
 
-$mod_strings = array_merge(return_module_language("en_us", "zr2_Report"),
+$mod_strings = array_merge(return_module_language("ja", "zr2_Report"),
 	array(
 	'LBL_REPORT_TEMPLATE_NEW' => '新しいJasperReportsテンプレート',
 	'LBL_REPORT' => 'JasperReports',
@@ -11,10 +11,10 @@ $mod_strings = array_merge(return_module_language("en_us", "zr2_Report"),
 	'LBL_REPORT_ERROR_MESSAGE' => 'エラーメッセージ',
 	'LBL_SUBREPORTS' => 'サブレポート',
 	'LBL_SUBREPORT' => 'アップロードサブレポート',
-	'LBL_SUBREPORT_HELP' => 'Subreports are saved in own files. For JasperReports to be able to access those files, please upload them here. If you have uploaded a subreport file before, you don\'t have to upload it againg.',
+	'LBL_SUBREPORT_HELP' => 'サブレポートは、自身のファイルに保存されます。JasperReportsがアクセスできるようにする為に、それらのファイルをアップロードしてください。',
 	'LBL_RESOURCES' => 'その他リソース',
 	'LBL_RESOURCE' => 'アップロードリソース',
-	'LBL_RESOURCE_HELP' => 'Report pictures and scriptlets are saved in own files. For JasperReports to be able to access those files, please upload them here. If you have uploaded a resource file before, you don\'t have to upload it againg.',
+	'LBL_RESOURCE_HELP' => 'ピクチャレポート、スクリプトレットは、自身のファイルに保存されます。JasperReportsがアクセスできるようにする為に、それらのファイルをアップロードしてください。',
 
 	'ERR_TEMPLATE_INVALID_FILE' => 'レポートデザインファイル(*.jrxml)のみサポートされています。',
 	)

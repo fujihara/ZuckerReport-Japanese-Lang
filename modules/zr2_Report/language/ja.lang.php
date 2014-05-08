@@ -16,7 +16,7 @@ $mod_strings = array (
 
 	'LBL_REPORT_FILENAMENAME' => 'ファイル名',
 	
-	'LBL_ONDEMAND_REPORT_SELECTION' => 'レポート 選択',
+	'LBL_ONDEMAND_REPORT_SELECTION' => 'レポート選択',
 	'LBL_ONDEMAND_FORMAT_SELECTION' => 'レポート型選択',
 	'LBL_ONDEMAND_ATTACH_SELECTION' => '添付',
 	'LBL_ONDEMAND_PARAMETERS' => 'パラメータ',
@@ -33,7 +33,7 @@ $mod_strings = array (
 	'LBL_SEND_EMAIL' => 'メール送信 To',
 	'LBL_SEND_EMAIL_HINTS' => '(カンマで区切られている複数のメールアドレスへ一斉送信可能です。)',
 	'LBL_SEND_EMAIL_SUBJECT' => 'ZuckerReports 通知: %s',
-	'LBL_SEND_EMAIL_BODY' => "Attached you can find an auto-generated report sent to you from ZuckerReports. \n\nCreated on: %s\nReport: %s\n",
+	'LBL_SEND_EMAIL_BODY' => "貴方に自動的に生成されたレポートを送信します。from ZuckerReports. \n\nCreated on: %s\nReport: %s\n",
 	'LBL_SEND_EMAIL_OK' => 'メール送信完了 To %s',
 	
 	'LBL_ONDEMAND_BOUND' => 'レポート、クエリ、レター',
